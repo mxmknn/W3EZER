@@ -8,12 +8,8 @@
         <h2 style="background-color:#FFEBCD; text-align:center">На канале W3ezer</h2>
         <h3 style="text-align:center; font-size:30px">Условия</h3>
             <p style="text-align:center; font-size:18px"> Цену вы предлагаете менеджеру в <a href="https://www.instagram.com/w3ezer_add/">инстаграмме</a>  .</p>
-        <h4 style="text-align:center; font-size:30px">Цены</h4>
-            <p style="text-align:center; font-size:20px">Рекламная вставка 15 секунд-50 руб.</p>
-            <p style="text-align:center; font-size:20px">Рекламная вставка 30 секунд-100 руб.</p>
-            <p style="text-align:center; font-size:20px">Рекламная вставка 1 минута-200 руб.</p>
         <h5 style="text-align:center; font-size:30px">Оплата</h5>
-            <p style="text-align:center; font-size:20px">Оплата производится через VK</p>
+            <p style="text-align:center; font-size:20px">Оплата производится через реквизиты которые предоставит вам менеджер</p>
         <h6 style="text-align:center; font-size:30px">Детали</h6>
             <p style="text-align:center; font-size:20px">Преролл (основные рубрики)
 ролики выходят каждую пятницу , и собирают максимальное количество просмотров на канале. 
