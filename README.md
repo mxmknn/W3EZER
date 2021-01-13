@@ -7,7 +7,7 @@
         <h1 style="background-color:#FFEBCD; text-align:center">Реклама</h1>
         <h2 style="background-color:#FFEBCD; text-align:center">На канале W3ezer</h2>
         <h3 style="text-align:center; font-size:30px">Условия</h3>
-            <p style="text-align:center; font-size:18px"> Канал не рекламирует: Азартные игры различного рода, лохотроны, страницы в сотсетях:Instagram, VK, "одноклассники".</p>
+            <p style="text-align:center; font-size:18px"> Цену вы предлагаете менеджеру в <a href="https://www.instagram.com/w3ezer_add/">инстаграмме</a>  .</p>
         <h4 style="text-align:center; font-size:30px">Цены</h4>
             <p style="text-align:center; font-size:20px">Рекламная вставка 15 секунд-50 руб.</p>
             <p style="text-align:center; font-size:20px">Рекламная вставка 30 секунд-100 руб.</p>
