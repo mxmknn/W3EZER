@@ -2,12 +2,8 @@
 <html>
     <title> Реклама на канале W3ezer</title>
     <body style="background-color:Aquamarine; font-family:sans-serif">
-        <header style="background-color:black;">
-            <img src="https://yt3.ggpht.com/ytc/AAUvwnjASAuAnOXwbZ-XmwXCAkmzCYCwacVsGhehfP9f=s176-c-k-c0x00ffffff-no-rj"height="25px"weight="25px"/>
             <a href="https://www.youtube.com/channel/UCuw9gAQE4_rHxQ9RAmQsZQQ">НА КАНАЛ</a>
-            <a href="https://vk.com/w3ezer;">VK</a>
-        </header>
-
+        <a href="https://vk.com/w3ezer;">VK</a> 
         <h1 style="background-color:Turquoise; text-align:center">Реклама</h1>
         <h2 style="background-color:Turquoise; text-align:center">На канале W3ezer</h2>
         <h3 style="text-align:center; font-size:30px">Условия</h3>
