@@ -10,7 +10,7 @@
             <p style="text-align:center; font-size:18px"> Цену вы предлагаете менеджеру в <a href="https://www.instagram.com/w3ezer_add/">инстаграмме</a>  .</p>
         <h5 style="text-align:center; font-size:30px">Оплата</h5>
             <p style="text-align:center; font-size:20px">Оплата производится через реквизиты которые предоставит вам менеджер</p>
-        <h6 style="text-align:center; font-size:30px">Детали</h6>
+        <h6 style="text-align:center; font-size:30px; font-color:black">Детали</h6>
             <p style="text-align:center; font-size:20px">Преролл (основные рубрики)
 ролики выходят каждую пятницу , и собирают максимальное количество просмотров на канале.. 
 мой голос + ссылка в описании.
