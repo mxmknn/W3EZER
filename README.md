@@ -1,5 +1,8 @@
 # W3EZER
 <html>
+    <head> 
+        <link rel="stylesheet"
+              href="style.css"/>
     <title> Реклама на канале W3ezer</title>
     <body style="background: linear-gradient(#E0FFFF, #AFEEEE) fixed; font-family:Sans-serif">
             <a href="https://www.youtube.com/channel/UCuw9gAQE4_rHxQ9RAmQsZQQ">НА КАНАЛ</a>
