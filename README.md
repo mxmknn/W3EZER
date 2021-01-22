@@ -4,11 +4,11 @@
         <link rel="stylesheet"
               href="style.css"/>
     <title> Реклама на канале W3ezer</title>
-    <body style="background: linear-gradient(#E0FFFF, #AFEEEE) fixed; font-family:Sans-serif">
+    <body>
             <a href="https://www.youtube.com/channel/UCuw9gAQE4_rHxQ9RAmQsZQQ">НА КАНАЛ</a>
         <a href="https://vk.com/w3ezer">VK</a> 
         <h1 style="text-align:center">Реклама</h1>
-        <h2 style=" text-align:center">На канале W3ezer</h2>
+        <h1 style=" text-align:center">На канале W3ezer</h1>
         <h3 style="text-align:center; font-size:30px; ">Условия</h3>
             <p style="text-align:center; font-size:18px"> Цену вы предлагаете менеджеру в <a href="https://www.instagram.com/w3ezer_add/">инстаграмме</a>  .</p>
         <h5 style="text-align:center; font-size:30px; ">Оплата</h5>
